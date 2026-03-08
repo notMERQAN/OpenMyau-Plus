@@ -1,6 +1,6 @@
 # Open Myau Plus
 
-![Preview](/images/image2.png)
+![Preview](/images/image3.png)
 
 [Myau Client](https://myau.sell.app/), for those who can’t afford it.
 
