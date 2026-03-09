@@ -11,7 +11,7 @@ Based on **`OpenMyau`**, with added features and improvements not found in the o
 * Added Click GUI (ported from Raven B3 by blowsy)
 * Fixed bugs
 
-If you encounter an issue or have a feature suggestion, please [create an issue](https://github.com/IamNespola/OpenMyau/issues).
+If you encounter an issue or have a feature suggestion, please [create an issue](https://github.com/IamNespola/OpenMyau-Plus/issues).
 
 ## Building
 
